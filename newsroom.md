@@ -28,6 +28,20 @@ News Room</h1>
 
 <!-- NEWS LIST -->
 <ul>
+<li id="news20240329">
+<dl>
+<dt class="image"><a href="https://atmarkit.itmedia.co.jp/ait/articles/2403/29/news013.html" class="touch" target="_blank" rel="noopener"><img src="{{ "/assets/newsroom_img/20240329_itmedia.jpg" | relative_url }}" alt="今改めて考える、「日本流DXの勝ち筋」とSIerがもたらす未来"></a></dt>
+<dd class="tag"><i class="fas fa-tag"></i>
+  //<ul>
+  //  <li><span class="ita">IT Automation</span></li>
+  //  <li><span class="oase">Operation Autonomy Support Engine</span></li>
+  //  <li><span class="epoch">EPOCH</span></li>
+  //</ul>
+</dd>
+<dd class="title"><a href="https://atmarkit.itmedia.co.jp/ait/articles/2403/29/news013.html" target="_blank" rel="noopener">今改めて考える、「日本流DXの勝ち筋」とSIerがもたらす未来 <i class="fas fa-external-link-alt"></i></a></dd>
+<dd class="meta"><div class="media"><i class="far fa-sticky-note"></i> @IT</div><div class="date"><i class="far fa-clock"></i> <time datetime="2024/03/29">2024/03/29</time></div></dd>
+</dl>
+</li>
 
 <li id="news20230222">
 <dl>
